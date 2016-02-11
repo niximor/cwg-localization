@@ -33,14 +33,16 @@ The structure of each file is very easy.
 - All strings must be in quotes (`"`). If you need to include quote symbol in your translation, write `\"` instead. It will appear as single quote without the backslash on the website.
 - If you need to include backslash (`\`) character in your string, write `\\` (double backslash). It will appear as single backslash on the website.
 - If you need to use different spelling based on some count or number of items or similar case, use special syntax:
-  ```php
-  "%d items" => array(
-    0 => "string for zero items",
-    1 => "string for one item",
-    2 => "string for two items",
-    3 => "string for three and more items",
-  )
-  ```
+
+    ```php
+    "%d items" => array(
+       0 => "string for zero items",
+       1 => "string for one item",
+       2 => "string for two items",
+       3 => "string for three and more items",
+    )
+    ```
+    
   You can specify any number of different numbering options, but remember, the **last one** will be always used as default fallback if you don't specify otherwise for that number.
 - Sometimes, strings contains special placeholders - `%s`, `%d` and so on. They are replaced by other text on the website.
   For everything to work correctly, your translation also must contain these special placeholders on correct position. Keep in mind, that you can't change order of the placeholders, so first one in the original string must always be first one in the translated string.
