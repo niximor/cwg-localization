@@ -1,47 +1,47 @@
 <?php
 
 $strings = array(
-    "Change password" => "Změna hesla",
+    "Change password" => "Zmena hesla",
     "Old password" => "Staré heslo",
     "New password" => "Nové heslo",
-    "Must have at least %d characters." => "Heslo musí obsahovat alespoň %d znaků.",
-    "New password again" => "Nové heslo znovu",
-    "Fields marked red are required." => "Červené položky jsou povinné.",
-    "New passwords does not match." => "Nová hesla se neshodují.",
-    "Password has been successfully changed." => "Heslo bylo úspěšně změněno.",
+    "Must have at least %d characters." => "Heslo musí obsahovať aspoň %d znakov.",
+    "New password again" => "Nové heslo znova",
+    "Fields marked red are required." => "Červené položky sú povinné.",
+    "New passwords does not match." => "Nové heslá sa nezhodujú.",
+    "Password has been successfully changed." => "Heslo bolo úspešne zmenené.",
     "Invalid old password." => "Chybné staré heslo.",
 
-    "Change" => "Změnit",
+    "Change" => "Zmeniť",
 
-    "Profile settings" => "Nastavení profilu",
+    "Profile settings" => "Nastavenie profilu",
 
-    "User name" => "Uživatelské jméno",
-    "Email" => "Email",
+    "User name" => "Používateľské meno",
+    "Email" => "E-mail",
     "Email will be used to send forgotten password." =>
-        "Email bude použit pro zaslání zapomenutého hesla.",
+        "E-mail bude použitý na zaslanie zabudnutého hesla.",
     "Password" => "Heslo",
     "Please confirm changing your user name or email by providing your current password." =>
-        "Změnu emailu nebo uživatelského jména potvrďte současným heslem.",
-    "You entered incorrect password." => "Chybně zadané heslo",
+        "Zmenu e-mailu alebo používateľského mena potvrďte súčasným heslom.",
+    "You entered incorrect password." => "Chybne zadané heslo",
 
 
-    "Hide my profile" => "Skrýt můj profil",
+    "Hide my profile" => "Skryť môj profil",
     "This will hide your user profile. Your statistics and collection will not be accessible to other users. Offers for xWG exchange will be displayed regardless of this option's settings." =>
-        "Zatržením této volby skryjete váš uživatelský profil. Vaše statistika a kolekce nebude přístupná ostatním uživatelům. Nabídky CWG k výměně se zobrazovat budou.",
+        "Začiarknutím tejto možnosti skryjete svoj používateľský profil. Vaša štatistika a kolekcia nebudú prístupné ostatným používateľom. Ponuky CWG na výmenu sa zobrazovať budú.",
 
-    "Hide me from TOP table" => "Skrýt mě z TOP tabulky",
+    "Hide me from TOP table" => "Skryť ma z TOP tabuľky",
     "This will hide your account from the Best collectors table. You won't affect overall rank of collectors." =>
-        "Zatržením této volby skryjete svůj účet z TOP tabulky. Nebudete tak ovlivňovat celkové pořadí sběratelů.",
+        "Začiarknutím tejto možnosti skryjete svoj účet z TOP tabuľky. Nebudete tak ovplyvňovať celkové poradie zberateľov.",
 
     "Your profile" => "Údaje do profilu",
     "This text will be displayed in public part of your profile. You can put any information here that will be visible for other users. Text can contain HTML." =>
-        "Tento text se bude zobrazovat v pravé části vašeho veřejného profilu. Můžete do něj umístit jakékoliv informace pro ostatní uživatele. Text smí obsahovat HTML tagy.",
+        "Tento text sa bude zobrazovať v pravej časti vášho verejného profilu. Môžete do neho umietsniť akékoľvek informácie pre ostatných používateľov. Text môže obsahovať HTML tagy.",
 
-    "Save" => "Uložit",
-    "Your profile has been successfully updated." => "Uživatelský profil byl úspěšně upraven.",
+    "Save" => "Uložiť",
+    "Your profile has been successfully updated." => "Používateľský profil bol úspešne upravený.",
 
-    "Remove collection" => "Smazat sbírku",
+    "Remove collection" => "Odstrániť zbierku",
     "WARNING! Do you really want to remove your entire collection? All entries will be removed and this operation cannot be undone!" =>
-        "VAROVÁNÍ! Skutečně chcete smazat celou svoji sbírku? Všechny záznamy o Vámi vlastněných xWG budou odstraněny!",
-    "Your collection has been removed." => "Sbírka byla odstraněna.",
+        "VAROVANIE! Naozaj chcete odstrániť celú svoju zbierku? Všetky záznamy o vami vlastnených xWG budú odstránené!",
+    "Your collection has been removed." => "Zbierka bola odstránená.",
 );
