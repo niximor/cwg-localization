@@ -3,37 +3,37 @@
 // Account related messages
 
 $strings = array(
-    "Sign in" => "Přihlášení",
-    "Recover lost password" => "Obnovit zapomenuté heslo",
-    "Sign up" => "Registrace",
-    "Create account" => "Vytvořit účet",
-    "Here you can create new account to access the site." => "Zde si můžete vytvořit uživatelský účet pro přístup k těmto stránkám.",
+    "Sign in" => "Prihlásenie",
+    "Recover lost password" => "Obnoviť zabudnuté heslo",
+    "Sign up" => "Registrácia",
+    "Create account" => "Vytvoriť účet",
+    "Here you can create new account to access the site." => "Tu si môžete vytvoriť používateľský účet na prístup k týmto stránkam.",
 
-    "User name" => "Uživatelské jméno",
-    "Enter your user name." => "Zadejte svoje uživatelské jméno",
+    "User name" => "Používateľské meno",
+    "Enter your user name." => "Zadajte svoje používateľské meno",
 
     "Password" => "Heslo",
-    "Retype password" => "Heslo znovu",
+    "Retype password" => "Heslo znova",
 
-    "Email" => "Email",
+    "Email" => "E-mail",
     "Enter the email, that you have filled in during the registration or in the settings. You will receive new password to this email." =>
-        "Zadejte email, který jste zadali při registraci nebo později v nastavení. Na tento email obdržíte nové heslo.",
+        "Zadajte e-mail, ktorý ste uviedli pri registrácii alebo neskôr v nastavení. Na tento e-mail dostanete nové heslo.",
 
-    "Fields marked red are required." => "Červeně označená pole jsou povinná.",
+    "Fields marked red are required." => "Červenou označené položky sú povinné.",
 
-    "Finish registration" => "Dokončit registraci",
-    "Remember me" => "Zapamatovat přihlášení",
-    "Selected user name already exists." => "Zvolené uživatelské jméno již existuje.",
-    "Passwords did not match." => "Hesla se neshodují.",
-    "Registration has been completed successfully. You can now sign in." => "Registrace byla úspěšně dokončena. Nyní se můžete přihlásit.",
-    "Selected user name already exists." => "Zadané uživatelské jméno již existuje.",
+    "Finish registration" => "Dokončiť registráciu",
+    "Remember me" => "Zapamätať prihlásenie",
+    "Selected user name already exists." => "Zvolené používateľské meno už existuje.",
+    "Passwords did not match." => "Heslá sa nezhodujú.",
+    "Registration has been completed successfully. You can now sign in." => "Registrácia bola úspešne dokončená. Teraz sa môžete prihlásiť.",
+    "Selected user name already exists." => "Zadané používateľské meno už existuje.",
 
     "Password has been successfully changed. New password was emailed to you." =>
-        "Heslo bylo úspěšně změněno. Nové heslo bylo odesláno na email.",
+        "Heslo bolo úspešne zmenené. Nové heslo bolo odoslané na e-mail.",
     "Specified user name / email combination was not found." =>
-        "Zadaná kombinace uživatelského jména a hesla nebyla nalezena.",
-    "Recover" => "Obnovit",
+        "Zadaná kombinácia používateľského mena a hesla sa nenašla.",
+    "Recover" => "Obnoviť",
 
-    "Authentification failed. Invalid username or password." => "Přihlášení selhalo. Chybné uživatelské jméno nebo heslo.",
+    "Authentification failed. Invalid username or password." => "Nepodarilo sa prihlásiť. Chybné používateľské meno alebo heslo.",
 
 );
