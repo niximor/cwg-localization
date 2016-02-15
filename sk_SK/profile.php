@@ -3,27 +3,27 @@
 // User's public profile
 
 $strings = array(
-    "Public profile" => "Veřejný profil",
-    "%s - profile" => "%s - uživatelský profil",
-    "%s - collection" => "%s - kolekce",
-    "%s - xWGs for exchange" => "%s - xWG na výměnu",
-    "%s - wants" => "%s - shání",
-    "%s - doesn't want" => "%s - nechce",
+    "Public profile" => "Verejný profil",
+    "%s - profile" => "%s – používateľský profil",
+    "%s - collection" => "%s – kolekcia",
+    "%s - xWGs for exchange" => "%s – xWG na výmenu",
+    "%s - wants" => "%s – zháňa",
+    "%s - doesn't want" => "%s – nechce",
 
-    "User has decided to hide his public profile." => "Uživatel se rozhodl nezveřejnit svůj profil.",
+    "User has decided to hide his public profile." => "Používateľ se rozhodol nezverejniť svoj profil.",
 
-    "Statistics" => "Statistika",
-    "Statistics splitted by categories" => "Statistika po kategoriích",
-    "Pieces" => "Kusů",
-    "Unique xWGs" => "Unikátních xWG",
+    "Statistics" => "Štatistika",
+    "Statistics splitted by categories" => "Štatistika po kategóriách",
+    "Pieces" => "Kusov",
+    "Unique xWGs" => "Unikátnych xWG",
 
-    "User" => "Uživatel",
-    "Member since:" => "Datum registrace:",
-    "Last login:" => "Naposledy přihlášen",
+    "User" => "Používateľ",
+    "Member since:" => "Dátum registrácie:",
+    "Last login:" => "Naposledy prihlásený",
 
-    "User profile" => "Uživatelský profil",
-    "Collection" => "Kolekce",
-    "Offers" => "K výměně",
-    "Wants" => "Shání",
+    "User profile" => "Používateľský profil",
+    "Collection" => "Kolekcia",
+    "Offers" => "Na výmenu",
+    "Wants" => "Zháňa",
     "Don't want" => "Nechce",
 );
