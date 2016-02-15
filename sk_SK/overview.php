@@ -3,28 +3,28 @@
 // Overview page (title page)
 
 $strings = array(
-    "Quick overview" => "Rychlý přehled",
-    "Total number of pieces:" => "Celkový počet kusů:",
+    "Quick overview" => "Rýchly prehľad",
+    "Total number of pieces:" => "Celkový počet kusov:",
     "This number may not be accurate, because you didn't filled collection information for at least one of your xWGs." =>
-        "U některého xWG nemáte uvedeny informace o počtu kusů, takže toto číslo nemusí přesně odpovídat.",
-    "Number of different xWGs:" => "Počet různých xWG:",
-    "My public profile" => "Můj veřejný profil",
-    "You can find more statistics here." => "Zde naleznete další statistiky.",
-    "CWG Collection - %s" => "CWG Kolekce - %s",
-    "Code for icon for usage in your profile" => "Kód pro ikonku do profilu",
+        "Pri niektorom xWG nemáte uvedené informácie o počte kusov, takže toto číslo nemusí presne zodpovedať.",
+    "Number of different xWGs:" => "Počet rôznych xWG:",
+    "My public profile" => "Môj verejný profil",
+    "You can find more statistics here." => "Tu nájdete ďalšie štatistiky.",
+    "CWG Collection - %s" => "CWG Kolekcia – %s",
+    "Code for icon for usage in your profile" => "Kód pre ikonku do profilu",
 
-    "Best collectors" => "Nejlepší sběratelé",
+    "Best collectors" => "Najlepší zberatelia",
     "#" => "#",
-    "Name" => "Jméno",
+    "Name" => "Meno",
     "Pieces" => "Počet",
-    "Whole table" => "Celá tabulka",
-    "Who offers how much?" => "Kdo kolik nabízí?",
-    "Statistics of xWG collectors" => "Statistika sběratelů xWG",
+    "Whole table" => "Celá tabuľka",
+    "Who offers how much?" => "Kto koľko ponúka?",
+    "Statistics of xWG collectors" => "Štatistika zberateľov xWG",
     "This table shows number of unique xWGs, which user has in his collection." =>
-        "Statistika sběratelů obsahuje počet unikátních xWG, které má uživatel ve své sbírce.",
+        "Štatistika zberateľov obsahuje počet unikátnych xWG, ktoré má používateľ vo svojej zbierke.",
 
-    "Last collected xWGs" => "Poslední zařazená xWG",
-    "Date" => "Datum",
+    "Last collected xWGs" => "Posledné zaradené xWG",
+    "Date" => "Dátum",
     "xWG" => "xWG",
-    "You don't have any xWGs in your collection." => "Nemáte ve sbírce žádná xWG.",
+    "You don't have any xWGs in your collection." => "Nemáte v zbierke žiadne xWG.",
 );
