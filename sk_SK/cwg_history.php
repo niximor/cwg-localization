@@ -14,7 +14,7 @@ $strings = array(
 
     "History of changes" => "História zmien",
     "Date" => "Dátum",
-    "Who" => "Používatel",
+    "Who" => "Používateľ",
     "What" => "Hodnota",
     "Change" => "Zmena",
 
