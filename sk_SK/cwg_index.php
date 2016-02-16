@@ -4,28 +4,28 @@
 
 $strings = array(
     // Page title
-    "%s (version %s)" => "%s (verze %s)",
-    "(version %s)" => "(verze %s)",
-    "version %s" => "verze %s",
+    "%s (version %s)" => "%s (verzia %s)",
+    "(version %s)" => "(verzia %s)",
+    "version %s" => "verzia %s",
 
     // Quick actions
-    "I have in collection" => "Mám v kolekci",
-    "xWG has been removed from your collection." => "xWG bylo vyřazeno z vaší kolekce.",
-    "xWG has been placed into your collection." => "xWG bylo zařazeno do vaší kolekce.",
+    "I have in collection" => "Mám v zbierke",
+    "xWG has been removed from your collection." => "xWG bolo vyradené z vašej zbierky.",
+    "xWG has been placed into your collection." => "xWG bolo zaradené do vašej zbierky.",
     "You cannot remove this xWG from your collection using this way, because you entered additional information for your collection." =>
-        "Toto xWG nemůžete vyřadit ze sbírky tímto způsobem, protože o něm máte vedeny podrobnější informace.",
+        "Toto xWG nemôžete vyradiť zo zbierky týmto spôsobom, protože k nemu máte vedené podrobnejšie informácie.",
     "xWG does not exists." => "xWG neexistuje.",
 
-    "I offer" => "Nabízím",
-    "Your offer has been removed." => "Nabídka byla stažena.",
-    "Your offer has been updated." => "Nabídka byla aktualizována.",
+    "I offer" => "Ponúkam",
+    "Your offer has been removed." => "Ponuka bola odstránená.",
+    "Your offer has been updated." => "Ponuka bola aktualizovaná.",
 
-    "I want" => "Sháním",
-    "You were removed from list of users who wants this xWG." => "Byli jste vyřazeni ze seznamu uživatelů, kteří toto xWG chtějí.",
-    "You were placed to the list of users who wants this xWG." => "Byli jste zařazeni do seznamu uživatelů, kteří toto xWG chtějí.",
-    "There has been an error while processing your request." => "Vyskytla se chyba při zpracování vašeho požadavku.",
+    "I want" => "Zháňam",
+    "You were removed from list of users who wants this xWG." => "Boli ste vyradení zo zoznamu používateľov, ktorí toto xWG chcú.",
+    "You were placed to the list of users who wants this xWG." => "Boli ste zaradení do zoznamu používateľov, ktorí toto xWG chcú.",
+    "There has been an error while processing your request." => "Vyskytla sa chyba pri spracovaní vašej požiadavky.",
 
-    "I don't want" => "Nechci",
+    "I don't want" => "Nechcem",
     "You were removed from list of users who don't want this xWG." => "Byli jste vyřazeni ze seznamu uživatelů, kteří toto xWG nechtějí.",
     "You were placed to the list of users who don't want this xWG." => "Byli jste zařazeni do seznamu uživatelů, kteří toto xWG nechtějí.",
 
