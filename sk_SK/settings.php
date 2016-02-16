@@ -27,7 +27,7 @@ $strings = array(
 
     "Hide my profile" => "Skryť môj profil",
     "This will hide your user profile. Your statistics and collection will not be accessible to other users. Offers for xWG exchange will be displayed regardless of this option's settings." =>
-        "Začiarknutím tejto možnosti skryjete svoj používateľský profil. Vaša štatistika a kolekcia nebudú prístupné ostatným používateľom. Ponuky CWG na výmenu sa zobrazovať budú.",
+        "Začiarknutím tejto možnosti skryjete svoj používateľský profil. Vaša štatistika a zbierka nebudú prístupné ostatným používateľom. Ponuky xWG na výmenu sa zobrazovať budú.",
 
     "Hide me from TOP table" => "Skryť ma z TOP tabuľky",
     "This will hide your account from the Best collectors table. You won't affect overall rank of collectors." =>
@@ -35,7 +35,7 @@ $strings = array(
 
     "Your profile" => "Údaje do profilu",
     "This text will be displayed in public part of your profile. You can put any information here that will be visible for other users. Text can contain HTML." =>
-        "Tento text sa bude zobrazovať v pravej časti vášho verejného profilu. Môžete do neho umietsniť akékoľvek informácie pre ostatných používateľov. Text môže obsahovať HTML tagy.",
+        "Tento text sa bude zobrazovať v pravej časti vášho verejného profilu. Môžete do neho umiestniť akékoľvek informácie pre ostatných používateľov. Text môže obsahovať HTML tagy.",
 
     "Save" => "Uložiť",
     "Your profile has been successfully updated." => "Používateľský profil bol úspešne upravený.",
