@@ -5,7 +5,7 @@
 $strings = array(
     "Public profile" => "Verejný profil",
     "%s - profile" => "%s – používateľský profil",
-    "%s - collection" => "%s – kolekcia",
+    "%s - collection" => "%s – zbierka",
     "%s - xWGs for exchange" => "%s – xWG na výmenu",
     "%s - wants" => "%s – zháňa",
     "%s - doesn't want" => "%s – nechce",
@@ -22,7 +22,7 @@ $strings = array(
     "Last login:" => "Naposledy prihlásený",
 
     "User profile" => "Používateľský profil",
-    "Collection" => "Kolekcia",
+    "Collection" => "Zbierka",
     "Offers" => "Na výmenu",
     "Wants" => "Zháňa",
     "Don't want" => "Nechce",
