@@ -29,7 +29,7 @@ $strings = array(
     "Exclusive mode" => "Výhradní mód",
     "Import!" => "Importovat!",
     "Choose file to import from your local device and format of the imported file." =>
-        "Zvolte soubor, který chcete improtovat z vašeho zařízení a formát importovaného souboru.",
+        "Zvolte soubor, který chcete importovat z vašeho zařízení a formát importovaného souboru.",
     "Also, pay attention to import options to choose what exactly you want to import." =>
         "Pomocí nastavení importu si můžete zvolit, co přesně chcete ze souboru importovat.",
     "Following table summarizes what actions the import will do." =>
