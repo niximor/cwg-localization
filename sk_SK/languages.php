@@ -3,9 +3,10 @@
 // Language names
 
 $strings = array(
-    "Language switcher" => "Přepínač jazyků",
+    "Language switcher" => "Prepínač jazykov",
 
     "Czech" => "Česky",
+    "Slovak" => "Slovensky",
     "English" => "Anglicky",
-    "Polish" => "Polsky",
+    "Polish" => "Poľsky",
 );

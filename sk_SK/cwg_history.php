@@ -1,22 +1,22 @@
 <?php
 
 $strings = array(
-    "Custom picture" => "Vlastní obrázek",
-    "None" => "Žádný",
-    "None or custom" => "Žádný nebo vlastní",
-    "Catalogue picture" => "Katalogový obrázek",
+    "Custom picture" => "Vlastný obrázok",
+    "None" => "Žiadny",
+    "None or custom" => "Žiadny alebo vlastný",
+    "Catalogue picture" => "Katalógový obrázok",
 
-    "Name" => "Název",
-    "Version" => "Verze",
+    "Name" => "Názov",
+    "Version" => "Verzia",
     "Note" => "Poznámka",
-    "Category" => "Kategorie",
-    "Picture" => "Obrázek",
+    "Category" => "Kategória",
+    "Picture" => "Obrázok",
 
-    "History of changes" => "Historie změn",
-    "Date" => "Datum",
-    "Who" => "Uživatel",
+    "History of changes" => "História zmien",
+    "Date" => "Dátum",
+    "Who" => "Používateľ",
     "What" => "Hodnota",
-    "Change" => "Změna",
+    "Change" => "Zmena",
 
-    "This xWG hasn't changed since catalogization." => "Toto xWG se ještě od zařazení nezměnilo.",
+    "This xWG hasn't changed since catalogization." => "Toto xWG sa ešte od zaradenia nezmenilo.",
 );
