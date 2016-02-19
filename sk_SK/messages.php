@@ -1,44 +1,35 @@
 <?php
-
 // Message center
-
 $strings = array(
-    "Private messages" => "Soukromé zprávy",
-    "Send message to user %s" => "Poslat zprávu uživateli %s",
-    "Showing only system messages" => "Zobrazeny pouze systémové zprávy.",
-    "Showing only messages between you and %s." => "Zobrazeny pouze zprávy mezi vámi a uživatelem %s.",
-    "Cancel filter" => "Zrušit filtr",
-    "You are trying to filter conversation with nonexisting user." => "Pokoušíte se filtrovat komunikaci s uživatelem, který neexistuje.",
-
-    "Send message" => "Odeslat zprávu",
-    "Recipient" => "Příjemce",
-    "Subject" => "Předmět",
-    "Text" => "Text zprávy",
-    "Send" => "Odeslat",
-
-    "Message has been successfully sent." => "Zpráva byla úspěšně odeslána.",
-    "Recipient does not exists." => "Příjemce zprávy neexistuje.",
-    "You don't have any private messages." => "Nemáte žádné soukromé zprávy.",
-
-    "System message" => "Systémová zpráva",
-    "Subject:" => "Předmět:",
-    "Remove" => "Smazat",
-    "Filter conversation" => "Filtrovat konverzaci",
-    "Reply" => "Odpovědět",
-
-    "&lt; Previous" => "&lt; Předchozí",
-    "Next &gt;" => "Následující &gt;",
-
-    "Filter" => "Filtr",
-
-    "Cleanup" => "Úklid",
-    "Remove all" => "Smazat vše",
+    "Private messages" => "Súkromné správy",
+    "Send message to user %s" => "Poslať správu používateľovi %s",
+    "Showing only system messages" => "Zobrazené len systémové správy.",
+    "Showing only messages between you and %s." => "Zobrazené len správy medzi vami a používateľom %s.",
+    "Cancel filter" => "Zrušiť filter",
+    "You are trying to filter conversation with nonexisting user." => "Pokúšate sa filtrovať komunikáciu s používateľom, ktorý neexistuje.",
+    "Send message" => "Odoslať správu",
+    "Recipient" => "Príjemca",
+    "Subject" => "Predmet",
+    "Text" => "Text správy",
+    "Send" => "Odoslať",
+    "Message has been successfully sent." => "Správa bola úspešne odoslaná.",
+    "Recipient does not exists." => "Príjemca správy neexistuje.",
+    "You don't have any private messages." => "Nemáte žiadne súkromné správy.",
+    "System message" => "Systémová správa",
+    "Subject:" => "Predmet:",
+    "Remove" => "Odstrániť",
+    "Filter conversation" => "Filtrovať konverzáciu",
+    "Reply" => "Odpovedať",
+    "&lt; Previous" => "&lt; Predch.",
+    "Next &gt;" => "Nasled. &gt;",
+    "Filter" => "Filter",
+    "Cleanup" => "Vyčistenie",
+    "Remove all" => "Odstrániť všetko",
     "Do you really want to remove all messages? Current filter does not affect this function - really all messages will be removed." =>
-        "Opravdu chcete smazat všechny zprávy? Aktuální filtr nemá na tuto funkci vliv - budou smazány opravdu všechny zprávy.",
-    "Do you really want to remove all messages between you and user %s?" => "Opravdu chcete smazat všechny zprávy mezi vámi a uživatelem %s?",
-
+        "Naozaj chcete odstrániť všetky správy? Aktuálny filter nemá na túto funkciu vplyv – budú odstránené naozaj všetky správy.",
+    "Do you really want to remove all messages between you and user %s?" => "Naozaj chcete odstrániť všetky správy medzi vami a používateľom %s?",
     "Send email notification when you receive new private message" =>
-        "Posílat upozornění na soukromé zprávy emailem",
+        "Posielať upozornenia na súkromné správy e-mailom",
     "You will receive email notification each time someone sends you a private message." =>
-        "Pošle upozornění na zadanou emailovou adresu v momentě, kdy Vám někdo pošle soukromou zprávu."
+        "Pošle upozornenie na zadanú e-mailovú adresu vo chvíli, keď vám niekto pošle súkromnú správu."
 );
