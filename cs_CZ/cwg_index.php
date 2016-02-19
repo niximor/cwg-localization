@@ -49,6 +49,7 @@ $strings = array(
     "Note" => "Poznámka",
     "Profile:" => "Profil:",
     "here" => "zde",
+    "Tags:" => "Štítky:",
 
     // Tabs below CWG details
     "Offers" => "Nabízí",
