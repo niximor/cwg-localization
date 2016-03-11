@@ -56,5 +56,9 @@ $strings = array(
 
     "GeoGet CSV" => "GeoGet CSV",
     "CSV file compatible with export from GeoGet CWG addon. Only xWGs you have in your collection are exported." =>
-        "CSV soubor kompatibilní s exportem z GeoGet CWG addonu. Exportuje pouze xWG, která máte ve vaší kolekci."
+        "CSV soubor kompatibilní s exportem z GeoGet CWG addonu. Exportuje pouze xWG, která máte ve vaší kolekci.",
+
+    "Full CSV" => "Kompletní CSV",
+    "CSV file containing all your collection information. Only xWGs you have in your collection are exported." =>
+        "CSV soubor obsahující všechny informace o vaší sbírce. Obsahuje pouze xWG, která máte ve své sbírce.",
 );
