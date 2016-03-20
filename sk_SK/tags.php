@@ -12,10 +12,10 @@ $strings = array(
 
     // Advanced filter details
     "Filter only coins labeled with a specified tag. Write comma separated list of tags you want to include in the filter inside the brackets." =>
-        "Zobraziť len xWG označené vybraným štítkom. Do zátvoriek vpíšte čiarkou oddelený zoznam štítkov, ktoré chcete vyfiltrovať.",
+        "Zobraziť len xWG označené vybraným štítkom. Do zátvoriek vpíšte zoznam štítkov oddelených čiarkou, ktoré chcete vyfiltrovať.",
     "labeled %s" => "označené štítkom %s",
 
     // Tags page in user's profile
     "Here you can find list of all your tags that you assigned to some xWGs. By clicking the tag, you can filter xWGs labeled with this tag." =>
-        "Tu nájdete zoznam štítkov, ktoré ste použili na označenie xWG. Kliknutím na štítok vyfiltrujete xWG označená týmto štítkom.",
+        "Tu nájdete zoznam štítkov, ktoré ste použili na označenie xWG. Kliknutím na štítok vyfiltrujete xWG označené týmto štítkom.",
 );
