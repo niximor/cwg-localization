@@ -4,7 +4,7 @@
 
 $strings = array(
     "Sign in" => "Zaloguj",
-    "Recover lost password" => "Odyskaj hasło",
+    "Recover lost password" => "Odzyskaj hasło",
     "Sign up" => "Rejestracja",
     "Create account" => "Załóż konto",
     "Here you can create new account to access the site." => "Tutaj możesz stworzyć nowe konto, aby uzyskać dostęp do strony internetowej.",
