@@ -44,6 +44,7 @@ $strings = array(
     // Buttons
     "Filter" => "Vyfiltrovať",
     "Cancel" => "Zrušiť",
+    "Cancel filter" => "Zrušiť filter",
     "Modify" => "Zmeniť",
     // Help
     "Specify what you want to see using buttons and switches in the Advanced search section." =>
