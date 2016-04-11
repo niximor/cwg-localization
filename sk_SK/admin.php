@@ -29,7 +29,7 @@ $strings = array(
     "User %s does not exists." => "Používateľ %s neexistuje.",
     "You are browsing as user %s. To switch back to your account, click %s." => "Prezeráte systém jako používateľ %s. Ak chcete prepnúť naspäť do svojho účtu, kliknite %s.",
     "here" => "sem",
-    "You are back in your account now." => "teraz ste naspäť vo svojom účte.",
+    "You are back in your account now." => "Teraz ste naspäť vo svojom účte.",
 
     // Uploading image for xWG
     "Set image" => "Nastaviť obrázok",
