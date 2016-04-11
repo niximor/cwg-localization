@@ -32,7 +32,7 @@ $strings = array(
     "Best collectors" => "Najlepší zberatelia",
     // Login page
     "Do you collect <abbr title=\"Czech Wood Geocoin\">CWG</abbr>? Do you want to introduce order to your collection? Do you offer <abbr title=\"Czech Wood Geocoin\">CWG</abbr> for exchange? Then you are at the right place. You don't know what CWG is? Take a look at %s." =>
-        "Zbierate <abbr title=\"Czech Wood Geocoin\">xWG</abbr>? Chcete mať v zbierke poriadok? Ponúkate xWG na výmenu? Potom ste tu správne. Netušíte, Čo je to xWG? Pozrite sa na %s.",
+        "Zbierate <abbr title=\"Czech Wood Geocoin\">xWG</abbr>? Chcete mať v zbierke poriadok? Ponúkate xWG na výmenu? Potom ste tu správne. Netušíte, čo je to xWG? Pozrite sa na %s.",
     "To manage your collection, you must firs sign in. Without registration you can look at the %s and also at the %s of biggest collectors." =>
         "Na spravovanie vlastnej zbierky sa vyžaduje prihlásenie. Bez registrácie sa môžete pozrieť napr. na %s a tiež na %s najlepších zberateľov.",
     "xWG catalogue" => "katalóg xWG",
