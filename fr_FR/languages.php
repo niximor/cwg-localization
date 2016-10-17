@@ -5,9 +5,9 @@
 $strings = array(
     "Language switcher" => "Selectionner la langue",
 
-    "Czech" => "Česky",
-    "Slovak" => "Slovensky",
-    "English" => "Anglicky",
+    "Czech" => "Tcheque",
+    "Slovak" => "Slovene",
+    "English" => "Anglais",
     "France" => "Francais",
-    "Polish" => "Poľsky",
+    "Polish" => "Poľonais",
 );
