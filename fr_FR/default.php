@@ -1,32 +1,32 @@
 <?php
 
 $strings["Tento web používá k poskytování služeb a analýze návštěvnosti soubory cookie. Používáním tohoto webu s tím souhlasíte."] =
-         "This website uses cookies to ensure you get the best experience on our website.";
+         "Ce site utilise des cookies pour vous assurer d'obtenir la meilleure expérience sur notre site.";
 
-$strings["V pořádku"] = "Agree";
-$strings["Další informace"] = "More information";
+$strings["V pořádku"] = "OK";
+$strings["Další informace"] = "Plus d'Information";
 
 // apps/cwg/templates/cwg/messages/index.php:1
 // apps/cwg/templates/cwg/settings/header.php:2
 // apps/cwg/templates/cwg/users/header.php:11
 $strings["Soukromé zprávy"] = 
-         "Private messages";
+         "Messages Privées";
 
 // apps/cwg/templates/cwg/messages/index.php:10
 $strings["Zobrazeny pouze systémové zprávy."] = 
-         "Show only system messages.";
+         "Afficher uniquement les messages du système.";
 
 // apps/cwg/templates/cwg/messages/index.php:12
 $strings["Zrušit filtr"] = 
-         "Cancel filter";
+         "Annuler Filtre";
 
 // apps/cwg/templates/cwg/messages/index.php:12
 $strings["Zobrazeny pouze zprávy mezi vámi a uživatelem %s."] = 
-         "Shown only messages between you and user %s.";
+         "Montré uniquement les messages entre vous et l'utilisateur %s.";
 
 // apps/cwg/templates/cwg/messages/index.php:15
 $strings["Pokoušíte se filtrovat komunikaci s uživatelem, který neexistuje."] = 
-         "You are trying to filter communication with nonexisting user.";
+         "Vous essayez de filtrer la communication avec un utilisateur inexistant.";
 
 // apps/cwg/templates/cwg/messages/index.php:24
 $strings["Odeslat zprávu"] = 
