@@ -1,0 +1,27 @@
+<?php
+
+$strings = array(
+    "Review queue" => "Fronta schvalování",
+    "My holds" => "Mé držené",
+    "New" => "Nové",
+    "My holds" => "Mé držené",
+    "All" => "Vše",
+    "%d items in queue." => "%d záznamů ve frontě.",
+    "Added by" => "Přidal",
+    "Category" => "Kategorie",
+    "Batch action:" => "Zpracovat dávku:",
+    "Message" => "Zpráva",
+    "Publish" => "Publikovat",
+    "Archive" => "Archivovat",
+    "Hold" => "Vzít",
+    "Unhold" => "Pustit",
+    "Go" => "Provést",
+    "No xWGs waiting for review. Hooray!" => "Žádná xWG nečekají na schválení. Hurá!",
+    "On hold by: %s" => "Drží: %s",
+    "On hold by %s" => "Drží %s",
+    "Review status:" => "Stav schvalování:",
+    "Published" => "Publikované",
+    "Archived" => "Archivované",
+    "Review tools:" => "Schvalování:",
+    "Not published" => "Není publikované",
+);

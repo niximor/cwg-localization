@@ -16,6 +16,13 @@ $strings = array(
     "Write by words, what image is burned on the xWG." =>
         "Popište slovy obrázkový motiv, který je na xWG vypálený.",
 
+    "Photo" => "Obrázek",
+    "Please, provide photo of xWG that you want to enter. The photo does not have to be in perfect quality, it won't be shown on the xWG listing until approved by admin. It is used only to check information entered here." =>
+        "Prosím, poskytněte fotku xWG které chcete vložit. Fotka nemusí být kvalitní, nebude se standardně zobrazovat jako obrázek xWG dokud jí admin neupraví. Fotku používáme pro ověření nebo upřesnění informací zadaných v tomto formuláři.",
+
+    "Backside" => "Zadní strana",
+    "If xWG has nonstandard backside, please, upload the backside too." => "Pokud má xWG nestandardní zadní stranu, prosím, nahrejte i její obrázek.",
+
     "Insert" => "Vložit",
 
     "Another xWG with same name and version already exists in this catalogue." =>
