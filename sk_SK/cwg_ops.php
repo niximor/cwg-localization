@@ -11,6 +11,11 @@ $strings = array(
         "Vpíšte to, čo je <strong>PO OBVODE</strong> xWG.",
     "Write by words, what image is burned on the xWG." =>
         "Popíšte slovami obrázkový motív, ktorý je na xWG vypálený.",
+        "Photo" => "Obrázok",
+    "Please, provide photo of xWG that you want to enter. The photo does not have to be in perfect quality, it won't be shown on the xWG listing until approved by admin. It is used only to check information entered here." =>
+        "Priložte fotografiu xWG, ktoré chcete vložiť. Fotografia nemusí byť kvalitná, nebude sa štandardne zobrazovať ako obrázok xWG, dokým ju admin neupraví. Fotografia sa používa na overenie alebo úpravu údajov zadaných v tomto formulári.",
+    "Backside" => "Zadná strana",
+    "If xWG has nonstandard backside, please, upload the backside too." => "Ak má xWG neštandardnú zadnú stranu, nahrajte aj jej obrázok.",
     "Insert" => "Vložiť",
     "Another xWG with same name and version already exists in this catalogue." =>
         "xWG s týmto názvom a verziou v katalógu už existuje.",
