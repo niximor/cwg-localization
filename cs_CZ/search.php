@@ -39,4 +39,7 @@ $strings = array(
     "Want" => "Chci",
     "Don't want" => "Nechci",
 
+    "Found: %d items" => "Nalezeno: %d položek",
+    "&lt; Previous" => "&lt; Předchozí",
+    "Next &gt;" => "Následující &gt;",
 );
