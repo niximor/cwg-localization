@@ -64,6 +64,7 @@ $strings = array(
     "Join has been performed by %s." => "Sloučení provedl %s.",
 
     "Picture" => "Obrázek",
+    "The file is not valid image. Only JPEG file format is supported." => "Obrázek musí být ve formátu JPEG.",
 
     "* Number of users, which has this xWG in their collection. xWG can be removed only when noone has it in the collection." =>
         "* Počet uživatelů, kteří mají toto xWG ve své kolekci. xWG jde smazat pouze tehdy, pokud ho nikdo nemá v kolekci.",

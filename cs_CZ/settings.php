@@ -40,8 +40,14 @@ $strings = array(
     "Save" => "Uložit",
     "Your profile has been successfully updated." => "Uživatelský profil byl úspěšně upraven.",
 
+    "Housekeeping" => "Úklid",
+
     "Remove collection" => "Smazat sbírku",
     "WARNING! Do you really want to remove your entire collection? All entries will be removed and this operation cannot be undone!" =>
         "VAROVÁNÍ! Skutečně chcete smazat celou svoji sbírku? Všechny záznamy o Vámi vlastněných xWG budou odstraněny!",
     "Your collection has been removed." => "Sbírka byla odstraněna.",
+
+    "Remove offers" => "Smazat nabídky",
+    "WARNING! Do you really want to remove all your offers? This operation cannot be undone!" => "VAROVÁNÍ! Opravdu chcete smazat všechny své nabídky? Jedná se o nevratnou akci!",
+    "Your offers has been removed." => "Vaše nabídky byly smazány.",
 );
