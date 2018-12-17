@@ -23,6 +23,9 @@ $strings = array(
     "Backside" => "Zadní strana",
     "If xWG has nonstandard backside, please, upload the backside too." => "Pokud má xWG nestandardní zadní stranu, prosím, nahrejte i její obrázek.",
 
+    "The file is not valid image. Only JPEG file format is supported." => "Obrázek nemá správný formát. Musí být formátu JPEG.",
+    "Image must have at least 300x300px." => "Obrázek musí mít nejméně 300x300px.",
+
     "Insert" => "Vložit",
 
     "Another xWG with same name and version already exists in this catalogue." =>
