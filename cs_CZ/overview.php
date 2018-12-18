@@ -27,4 +27,9 @@ $strings = array(
     "Date" => "Datum",
     "xWG" => "xWG",
     "You don't have any xWGs in your collection." => "Nemáte ve sbírce žádná xWG.",
+
+    "Your unpublished xWGs" => "Vaše nepublikovaná xWG",
+    "Following xWGs needs your attention" => "Následující xWG vyžadují vaši pozornost",
+    "xWGs waiting to be published" => "xWG čekající na publikaci",
+    "See all xWGs you've entered" => "Podívejte se na všechna xWG, která jste zadali",
 );

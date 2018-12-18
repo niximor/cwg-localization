@@ -33,8 +33,8 @@ $strings = array(
 
     // Uploading image for xWG
     "Set image" => "Ustaw obrazek",
-    "Image has to have at least 150x150px or larger (will be automatically resized) and must be in JPG format. You will see preview of result in right column." =>
-        "Obrazek musi mieć rozmiar przynajmniej 150x150 px (będzie automatycznie zmniejszony) i musi być w formacie JPG. Po wgraniu w prawej kolumnie zobaczysz jego podgląd.",
+    "Image has to have at least 300x300px or larger (will be automatically resized) and must be in JPG format. You will see preview of result in right column." =>
+        "Obrazek musi mieć rozmiar przynajmniej 300x300 px (będzie automatycznie zmniejszony) i musi być w formacie JPG. Po wgraniu w prawej kolumnie zobaczysz jego podgląd.",
     "You cannot use image, where you don't have permission to use it. Copyright law apply to all images!" =>
         "Nie możesz używać obrazka bez pozwolenia autora! Prawa autorskie obowiązują do wszysktich obrazków!",
     "Image:" => "Obrazek:",

@@ -7,8 +7,8 @@ $strings = array(
     "This page can be used to enter xWG, that isn't (so far) present in the official catalogue. Please, take extreme caution of what you are entering. Mainly, please, pay attention to <strong>xWG NAME</strong>, which should contain exactly what is written <strong>AROUND THE xWG</strong>, not inside. Before you submit new xWG, please check, that xWG is not entered with some similar name (for example including \"&amp; team\", \"&amp; family\" and similar). You will spare administrator's time who will need to manually fix your error when it is found. When you enter incorrect xWG multiple times, it may lead to revocation of your privilege to insert new items." =>
         "Slouží k zadání xWG, které (prozatím) není umístěno v katalogu. Při zadávání si dejte pozor, co zadáváte. Zejména <strong>NÁZEV xWG</strong>, který by měl přesně odpovídat tomu, co je napsáno <strong>PO OBVODU xWG</strong>, nikoliv uvnitř. Před zadáním také, prosím, zkontrolujte, není-li již xWG zadáno s nějakým podobným názvem (např. \"&amp; team\", \"&amp; family\" apod.). Ušetříte tak práci i nervy administrátorům v době, kdy někdo na chybu přijde administrátoři ji pak budou muset ručně řešit. Opakované chybné zadávání xWG může být potrestáno až zákazem vkládání dalších záznamů.",
 
-    "Describe the picture on the xWG into the <strong>Note</strong> field. This field is required." =>
-        "Do pole <strong>Poznámka</strong> napište, co je na xWG za motiv, případně nějaký jiný způsob, jak toto CWG identifikovat. Toto pole je nyní povinné.",
+    "Describe the picture on the xWG into the <strong>Note</strong> field." =>
+        "Do pole <strong>Poznámka</strong> napište, co je na xWG za motiv, případně nějaký jiný způsob, jak toto CWG identifikovat.",
 
     "xWG information" => "Údaje o xWG",
     "Enter what is written <strong>AROUND</strong> xWG." =>
@@ -17,6 +17,8 @@ $strings = array(
         "Popište slovy obrázkový motiv, který je na xWG vypálený.",
 
     "Photo" => "Obrázek",
+    "Photo:" => "Obrázek:",
+
     "Please, provide photo of xWG that you want to enter. The photo does not have to be in perfect quality, it won't be shown on the xWG listing until approved by admin. It is used only to check information entered here." =>
         "Prosím, poskytněte fotku xWG které chcete vložit. Fotka nemusí být kvalitní, nebude se standardně zobrazovat jako obrázek xWG dokud jí admin neupraví. Fotku používáme pro ověření nebo upřesnění informací zadaných v tomto formuláři.",
 
@@ -68,7 +70,17 @@ $strings = array(
 
     "Picture" => "Obrázek",
     "The file is not valid image. Only JPEG file format is supported." => "Obrázek musí být ve formátu JPEG.",
+    "Image must have at least 300x300px." => "Obrázek musí mít alespoň 300x300px.",
 
     "* Number of users, which has this xWG in their collection. xWG can be removed only when noone has it in the collection." =>
         "* Počet uživatelů, kteří mají toto xWG ve své kolekci. xWG jde smazat pouze tehdy, pokud ho nikdo nemá v kolekci.",
+
+    "Show archived" => "Zobrazit archivované",
+    "Hide archived" => "Skrýt archivované",
+
+    "%d (%s pieces)" => "%d (%s ks)",
+
+    "Communication" => "Komunikace",
+    "Message can be seen by any administrator, but noone else. All messages are hidden when xWG gets published. They only remain in your profile." => "Zprávy vidí všichni administrátoři, ale nikdo jiný. Všechny zprávy jsou skryty v momentě publikace xWG. Jsou potom dostupné jen ve vašem profilu.",
+    "If you want to attach another image for the xWG, you can do so here. Again, image must be in JPEG format with minimum dimensions of 300x300px." => "Pokud chcete připojit další obrázek pro toto xWG, můžete tak učinit zde. Stále platí stejná pravidla - musí být formátu JPEG o minimálních rozměrech 300x300px.",
 );

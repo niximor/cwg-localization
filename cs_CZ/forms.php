@@ -20,4 +20,20 @@ $strings = array(
     "Up" => "Nahoru",
     "Down" => "Dolů",
     "Add another file" => "Přidat další soubor",
+
+    // GCM forms
+    "Required." => "Povinné.",
+    "Required field" => "Povinné pole",
+    "Must be at least %d characters long." => "Musí mít alespoň %d znaků.",
+    "Cannot be longer than %d characters." => "Nesmí být delší než %d znaků.",
+    "Must be exactly %d characters long." => "Musí mít přesně %d znaků.",
+    "Must be greater than %d." => "Musí být vyšší než %d.",
+    "Must be lower than %d." => "Musí být nižší než %d.",
+    "Invalid value." => "Neplatná hodnota.",
+    "Must contain only letters." => "Musí obsahovat jen písmena.",
+    "Must contain only letters and numbers." => "Musí obsahovat pouze čísla a písmena.",
+    "Must be valid identifier." => "Musí být platný identifikátor.",
+    "Must be number." => "Musí být číslo.",
+    "Must be integer." => "Musí být celé číslo.",
+    "Must be decimal number." => "Musí být desetinné číslo.",
 );

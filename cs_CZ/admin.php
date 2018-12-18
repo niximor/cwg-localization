@@ -33,8 +33,8 @@ $strings = array(
 
     // Uploading image for xWG
     "Set image" => "Nastavit obrázek",
-    "Image has to have at least 150x150px or larger (will be automatically resized) and must be in JPG format. You will see preview of result in right column." =>
-        "Obrázek musí mít rozměr 150x150px nebo větší (bude automaticky zmenšen) a musí být formátu JPG. Náhled, jak bude výsledek vypadat, vidíte v pravém sloupci.",
+    "Image has to have at least 300x300px or larger (will be automatically resized) and must be in JPG format. You will see preview of result in right column." =>
+        "Obrázek musí mít rozměr 300x300px nebo větší (bude automaticky zmenšen) a musí být formátu JPG. Náhled, jak bude výsledek vypadat, vidíte v pravém sloupci.",
     "You cannot use image, where you don't have permission to use it. Copyright law apply to all images!" =>
         "Obrázek nesmí být použit bez souhlasu jeho autora! Na obrázky se vztahují autorská práva, která je třeba respektovat!",
     "Image:" => "Obrázek:",
