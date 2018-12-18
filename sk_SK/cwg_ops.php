@@ -4,8 +4,8 @@ $strings = array(
     "Insert new xWG" => "Vložiť nové xWG",
     "This page can be used to enter xWG, that isn't (so far) present in the official catalogue. Please, take extreme caution of what you are entering. Mainly, please, pay attention to <strong>xWG NAME</strong>, which should contain exactly what is written <strong>AROUND THE xWG</strong>, not inside. Before you submit new xWG, please check, that xWG is not entered with some similar name (for example including \"&amp; team\", \"&amp; family\" and similar). You will spare administrator's time who will need to manually fix your error when it is found. When you enter incorrect xWG multiple times, it may lead to revocation of your privilege to insert new items." =>
         "Slúži na zadanie xWG, ktoré (zatiaľ) nie je umiestnené v katalógu. Pri zadávaní si dajte pozor, čo zadávate. Najmä <strong>NÁZOV xWG</strong>, ktorý by mal presne zodpovedať tomu, čo je napísané <strong>PO OBVODE xWG</strong>, nie vo vnútri. Pred zadaním tiež skontrolujte, či už nie je xWG zadané s nejakým podobným názvom (napr. \"&amp; team\", \"&amp; family\" apod.). Ušetríte tak prácu aj nervy administrátorom v dobe, kedy niekto na chybu príde, a administrátori ju potom budú musieť ručne riešiť. Opakované chybné zadávanie xWG môže byť potrestané až zákazom vkladania ďalších záznamov.",
-    "Describe the picture on the xWG into the <strong>Note</strong> field. This field is required." =>
-        "Do položky <strong>Poznámka</strong> napíšte, aký je na xWG motív, prípadne nejaký iný spôsob, ako toto xWG identifikovať. Táto položka je teraz povinná.",
+    "Describe the picture on the xWG into the <strong>Note</strong> field." =>
+        "Do položky <strong>Poznámka</strong> napíšte, aký je na xWG motív, prípadne nejaký iný spôsob, ako toto xWG identifikovať.",
     "xWG information" => "Údaje o xWG",
     "Enter what is written <strong>AROUND</strong> xWG." =>
         "Vpíšte to, čo je <strong>PO OBVODE</strong> xWG.",
