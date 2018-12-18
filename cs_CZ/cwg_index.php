@@ -87,6 +87,8 @@ $strings = array(
 
     // Your collection information on the right side
     "You must first sign in to access the collection." => "Pro přístup ke kolekci se musíte přihlásit.",
+    "Collection entry is not counted in your stats until the xWG is published. When the xWG gets archived, your collection entries will be permanently removed." => "Záznam v kolekci není započítán do statistik dokud není xWG publikováno. Když je xWG naopak archivováno, záznam v kolekci je odstraněn.",
+    "This xWG is archived and is available only for viewing purpose. You cannot do any action with it." => "Toto xWG je archivováno a je k dispozici pouze pro účely prohlížení. Nemůžete s ním dělat žádné operace.",
     "Collection" => "Kolekce",
     "Year" => "Ročník",
     "Pieces" => "Ks",
