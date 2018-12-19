@@ -1,5 +1,7 @@
 <?php
+
 // Various form messages.
+
 $strings = array(
     "Field '%s' must be filled in." => "Položka '%s' musí byť vyplnená.",
     "%s must have at least %d chars." => "%s musí mať aspoň %d znakov.",
@@ -18,4 +20,20 @@ $strings = array(
     "Up" => "Nahor",
     "Down" => "Nadol",
     "Add another file" => "Pridať ďalší súbor",
+    
+        // GCM forms
+    "Required." => "Povinné.",
+    "Required field" => "Povinné pole",
+    "Must be at least %d characters long." => "Musí mať aspoň %d znakov.",
+    "Cannot be longer than %d characters." => "Nesmie byť dlhšie než %d znakov.",
+    "Must be exactly %d characters long." => "Musí mať presne %d znakov.",
+    "Must be greater than %d." => "Musí byť väčšie než %d.",
+    "Must be lower than %d." => "Musí byť menšie než %d.",
+    "Invalid value." => "Neplatná hodnota.",
+    "Must contain only letters." => "Musí obsahovať len písmená.",
+    "Must contain only letters and numbers." => "Musí obsahovať len čísla a písmená.",
+    "Must be valid identifier." => "Musí byť platný identifikátor.",
+    "Must be number." => "Musí byť číslo.",
+    "Must be integer." => "Musí byť celé číslo.",
+    "Must be decimal number." => "Musí byť desatinné číslo.",
 );
