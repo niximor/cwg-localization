@@ -27,7 +27,7 @@ $strings = array(
     "User name:" => "Používateľské meno:",
     "Reincarnation as %s has been successfull." => "Prevtelenie do používateľa %s prebehlo úspešne.",
     "User %s does not exists." => "Používateľ %s neexistuje.",
-    "You are browsing as user %s. To switch back to your account, click %s." => "Prezeráte systém jako používateľ %s. Ak chcete prepnúť naspäť do svojho účtu, kliknite %s.",
+    "You are browsing as user %s. To switch back to your account, click %s." => "Prezeráte systém ako používateľ %s. Ak chcete prepnúť naspäť do svojho účtu, kliknite %s.",
     "here" => "sem",
     "You are back in your account now." => "Teraz ste naspäť vo svojom účte.",
 
@@ -36,7 +36,7 @@ $strings = array(
     "Image has to have at least 300x300px or larger (will be automatically resized) and must be in JPG format. You will see preview of result in right column." =>
         "Obrázok musí mať rozmer 300x300px alebo viac (bude automaticky zmenšený) a musí byť vo formáte JPG. Náhľad, ako bude obrázok vyzerať, vidíte v stĺpci napravo.",
     "You cannot use image, where you don't have permission to use it. Copyright law apply to all images!" =>
-        "Obrázek nesmie byť použitý bez súhlasu jeho autora! Na obrázky sa vzťahujú autorské práva, ktoré je potrebné rešpektovať!",
+        "Obrázok nesmie byť použitý bez súhlasu jeho autora! Na obrázky sa vzťahujú autorské práva, ktoré je potrebné rešpektovať!",
     "Image:" => "Obrázok:",
     "Upload" => "Nahrať",
     "Remove existing image" => "Odstrániť existujúci obrázok",
