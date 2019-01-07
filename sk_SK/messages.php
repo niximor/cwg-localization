@@ -32,4 +32,5 @@ $strings = array(
         "Posielať upozornenia na súkromné správy e-mailom",
     "You will receive email notification each time someone sends you a private message." =>
         "Pošle upozornenie na zadanú e-mailovú adresu vo chvíli, keď vám niekto pošle súkromnú správu."
+    "Message:" => "Správa:",
 );
