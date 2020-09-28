@@ -19,8 +19,11 @@ $strings = array(
     "Photo" => "Obrázek",
     "Photo:" => "Obrázek:",
 
-    "Please, provide photo of xWG that you want to enter. The photo does not have to be in perfect quality, it won't be shown on the xWG listing until approved by admin. It is used only to check information entered here." =>
-        "Prosím, poskytněte fotku xWG které chcete vložit. Fotka nemusí být kvalitní, nebude se standardně zobrazovat jako obrázek xWG dokud jí admin neupraví. Fotku používáme pro ověření nebo upřesnění informací zadaných v tomto formuláři.",
+    //"Please, provide photo of xWG that you want to enter. The photo does not have to be in perfect quality, it won't be shown on the xWG listing until approved by admin. It is used only to check information entered here." =>
+    //"Prosím, poskytněte fotku xWG které chcete vložit. Fotka nemusí být kvalitní, nebude se standardně zobrazovat jako obrázek xWG dokud jí admin neupraví. Fotku používáme pro ověření nebo upřesnění informací zadaných v tomto formuláři.",
+    
+    "Please, provide photo of xWG that you want to enter. Try to create perpendicular photo with good lighting conditions (daylight or light which does not create shadow on the xWG), as the photo is then used for displaying on the website." =>
+        "Prosím, poskytněte fotku xWG které chcete vložit. Pokuste se vytvořit kolmou fotku za dobrých světelných podmínek (denní světlo nebo světlo které na xWG nevytváří stíny), fotka je často použita pro zobrazení na stránkách.",
 
     "Backside" => "Zadní strana",
     "If xWG has nonstandard backside, please, upload the backside too." => "Pokud má xWG nestandardní zadní stranu, prosím, nahrejte i její obrázek.",
@@ -68,7 +71,8 @@ $strings = array(
         "xWG&nbsp;%s, které nechcete, bylo sloučeno s xWG&nbsp;%s. Prosím, zkontrolujte, že se stále jedná o kousek, který nechcete.",
     "Join has been performed by %s." => "Sloučení provedl %s.",
 
-    "Picture" => "Obrázek",
+    "Picture" => "Hlavní obrázek",
+    "Additional pictures" => "Další obrázky",
     "The file is not valid image. Only JPEG file format is supported." => "Obrázek musí být ve formátu JPEG.",
     "Image must have at least 300x300px." => "Obrázek musí mít alespoň 300x300px.",
 

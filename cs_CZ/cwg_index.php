@@ -48,8 +48,10 @@ $strings = array(
     "Note:" => "Poznámka:",
     "Note" => "Poznámka",
     "Profile:" => "Profil:",
+    "Link" => "Odkaz",
     "here" => "zde",
     "Tags:" => "Štítky:",
+    "Do not update from catalogue" => "Neaktualizovat z katalogu",
 
     // Tabs below CWG details
     "Offers" => "Nabízí",
