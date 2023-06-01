@@ -112,6 +112,7 @@ $strings = array(
     "Not collected by me only" => "Jen co nemám",
     "Show only what I have collected" => "Jen co mám ve sbírce",
     "Show only what I offer" => "Jen co nabízím",
+    "Only what I want" => "Jen co chci",
 
     "Duplicates" => "Duplicity",
     "This list contains all xWGs which you have more than once in your collection. That means that you might be interrested in offering the xWGs for exchange." =>
